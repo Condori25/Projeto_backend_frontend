@@ -26,3 +26,17 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+.logo-rodape{
+    width: 150px;
+    height: auto;
+}
+#Logo_Educacao,
+#Logo_Gov{
+    display: flex;
+    align-items: center;
+}
+#Logo_Imagem{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
