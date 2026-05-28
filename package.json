@@ -1,0 +1,11 @@
+{
+   "name": "login-mvc", 
+   "version": "1.0.0",
+   "main": "server.js",
+   "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.6",
+    "express": "^4.18.2",
+    "mysql12": "^3.6.0"
+   }
+}
